@@ -1,0 +1,29 @@
+{
+	"name": "carrooi/helpers",
+	"type": "library",
+	"description": "Helpers for Nette framework",
+	"keywords": ["carrooi", "fs", "path", "files", "helpers"],
+	"license": ["MIT"],
+	"authors": [
+		{
+			"name": "David Kudera",
+			"homepage": "http://davidkudera.com",
+			"email": "kudera.d@gmail.com"
+		}
+	],
+	"require": {
+		"nette/utils": "~2.2",
+		"nette/finder": "~2.2"
+	},
+	"require-dev": {
+		"nette/tester": "~1.3.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"Carrooi\\Helpers\\": "src/"
+		},
+		"classmap": [
+			"src/exceptions.php"
+		]
+	}
+}

@@ -7,7 +7,7 @@
  * @author David Kudera
  */
 
-namespace CarrooiTests\Helpers\Authorization;
+namespace CarrooiTests\Helpers;
 
 use Carrooi\Helpers\PathHelpers;
 use Tester\Assert;

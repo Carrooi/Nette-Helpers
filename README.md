@@ -1,7 +1,7 @@
 # Carrooi/Helpers
 
 [![Build Status](https://travis-ci.org/Carrooi/Nette-Helpers.svg?branch=master)](https://travis-ci.org/Carrooi/Nette-Helpers)
-[![Donate](http://b.repl.ca/v1/donate-PayPal-brightgreen.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WMC9CDEEYFJXC)
+[![Donate](http://b.repl.ca/v1/donate-PayPal-brightgreen.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AJVM4JLSEA756)
 
 Helpers for Nette framework.
 

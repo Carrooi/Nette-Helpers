@@ -20,6 +20,10 @@ class PathHelpers extends Object
 	{
 		$wrapper = '';
 
+		if (DIRECTORY_SEPARATOR === '\\') {
+			$path = strtr($path, '\\', '/');
+		}
+
 		preg_match('/^([a-z]+\:\/\/)?(.*)$/', $path, $match);
 		if (count($match) === 3) {
 			$wrapper = $match[1];

@@ -19,3 +19,6 @@ $ composer update
 	
 * 1.0.1
 	+ Typos
+	
+* 1.0.2
+	+ Windows: bug in PathHelpers::normalize() method
